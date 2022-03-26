@@ -2,8 +2,7 @@
 
 ## Research knowledgebase plugins for WordPress (current version and updates)
 
-
-## Free
+## Free Plugins
 
 ### 1. BetterDocs
 
@@ -48,7 +47,7 @@
 
 #### Version - 1.7.1
 
-### 3. BasePress
+### 4. BasePress
 
 #### Link - https://codesavory.com/
 
@@ -61,7 +60,7 @@
 #### Version- 2.15.1
 
 
-## Paid
+## Paid Plugins
 
 ### 1. Minerva KB
 
@@ -78,9 +77,9 @@
 
 #### Demo Link -> https://www.minerva-kb.com/#demos
 
-#### Users and Rating - 
+<!-- #### Users and Rating -  -->
 
-#### Version and Updates - 
+<!-- #### Version and Updates -  -->
 
 ### 2. Helpie WP
 
@@ -98,9 +97,9 @@
 
 #### Demo Link -> http://demo.helpiewp.com/
 
-#### Users and Rating - 
+<!-- #### Users and Rating -  -->
 
-#### Version and Updates - 
+<!-- #### Version and Updates -  -->
 
 ### 3. Heroic KB
 
@@ -116,6 +115,6 @@
 
 #### Demo Link -> https://heroickb.herothemes.com/
 
-#### Users and Rating - 
+<!-- #### Users and Rating -  -->
 
-#### Version and Updates - 
+<!-- #### Version and Updates -  -->
