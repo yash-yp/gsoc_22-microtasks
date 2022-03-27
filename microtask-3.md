@@ -12,7 +12,7 @@ The details of the plugin can be found during the research done in microtask -1 
 
 ### Echo Knowledge Base
 
-The second plugin that has been implemented is the `Echo Knowledge Base`
+The second plugin that has been implemented is the Echo Knowledge Base
 
 The details of the plugin can be found during the research done in microtask -1 - [Link](./microtask-1.md#2-echo-knowledge-base)
 
