@@ -58,5 +58,13 @@ This kind of classification can be helpful to avoid putting the information too 
 
 ## Summary
 
+There are a variety of knowledge base plugins available for free. The paid ones do offer a little more features, one of them being the analytics that can help judge as to what are the user searching and how easily are they finding the required information that we are providing.
 
+Another way to go could be to use a free plugin and later upgrade it by paying the required amount. However, if one chooses create a simple knowledge base without overloading it with extra features, then the free versions available are more than enough.
+
+Through the research that I did through these microtasks, I am in favour of creating a knowledge base similar to as implemented in the [second example](#echo-knowledge-base-plugin) or having multiple knowledge bases. 
+
+This high-level categorization of topics can help the users to quickly locate the information they desire and reduces one level of nesting. This may not sound like much but these things matter a lot in improving the user experience.
+
+That being said, the above summarisation is purely through my ideas and understanding of the requirements for a user that would come looking for information. I am open to any other ideas that the mentors may suggest and would be willing to try them as well.
 
