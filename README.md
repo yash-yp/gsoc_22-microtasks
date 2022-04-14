@@ -1,4 +1,4 @@
-# GSoC'22-Microtasks
+# GSoC'22 - Microtasks
 
 This repository contains the microtasks required to be completed for the knowledge-base project of GSoC'22 under [CHAOSS](https://github.com/chaoss).
 ____
@@ -6,23 +6,20 @@ ____
  ## Project Idea
  [Build Knowledgebase Application on CHAOSS Website](https://github.com/chaoss/website/issues/708).
 
-<!-- ## Microtask -1
+## Microtasks
 
-## Microtask -2
+### [Microtask - 1](microtask-1.md)
 
-## Microtask -3 -->
-<!-- [Link to Microtask -3](Microtask-3) -->
+> Research knowledgebase plugins for WordPress (current version and updates)
 
-<!-- ___ -->
-<!-- 
-## Additional Project Work
- 
-In addition to the completing the above microtasks, I have also created some automation systems that can help generate a metrics report for the metrics defined under a particular working group.
+### [Microtask - 2](microtask-2.md)
 
-- [Automation : Tree Structure of LaTeX files](Automate-LaTeX-Tree)
-    - This automation system creates a tree-like structure for the working group repository where the metric files are defined at the bottom level of the tree.
-    - All the LaTeX files in the tree get converted to PDF, all at once by including them in the files of upper level which inturn are included in the master file.
+> Create a WordPress site. The site doesn't need to have real content but it should include dummy content (lorem ipsum...), navigation elements, and styling that complements the chaoss website.
 
-- [Automation : Merge Markdowns](Automate-LaTeX-Tree)
-    - This system combines the required metric markdowns to create a single merged markdown file.
-    - The markdown files thus obtained contains all the required metrics. It is then converted and processed to generate the report. -->
+### [Microtask - 3](microtask-3.md)
+
+> Implement two knowledgebase plugins (free versions) on your WordPress site. If you are recommending a plugin that costs money, please reach out to a mentor to discuss.
+
+### [Microtask - 4](microtask-4.md)
+
+> Create a report to present the results of your micro-tasks and your proposal for implementing a knowledgebase on the CHAOSS website. Document the plugins and describe your design choices. Include links to your example implementations on your WordPress site.

@@ -4,6 +4,6 @@
 
 ## Site Link: http://chaossclone.ga/
 
-The site is hosted on a free domain and is made using Wordpress. The site uses `Astra` as the base theme. Further customization has been done by using the font and colors from the website: https://chaoss.community/
+The site is hosted on a free domain and is made using Wordpress. The site uses [`Astra`](https://wpastra.com/) as the base theme. Further customization has been done by using the font and colors from the website: https://chaoss.community/
 
 
