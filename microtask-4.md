@@ -46,13 +46,14 @@ Example:
 
 I identified three categories in which the information could be classified given it's vast amount.
 
-- Community
+- Getting Started
 - Metrics
 - DEI Badging
+- Initiatives and Softwares
 
 This kind of classification can be helpful to avoid putting the information too deep in the knowledgebase and thus reducing it's accessibility to users.
 
-![Example Implementation](./static/echo_UI_example.png.jpeg)
+![Example Implementation](./static/echo_UI_example_2.jpeg)
 
 ---
 
