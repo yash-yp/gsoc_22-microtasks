@@ -44,7 +44,7 @@ Example:
 
 ![Product Based KB UI](static/echo_product-based_UI.png)
 
-I identified three categories in which the information could be classified given its vast amount.
+I identified four categories in which the information could be classified given its vast amount.
 
 - Getting Started
 - Metrics
