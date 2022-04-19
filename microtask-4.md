@@ -53,7 +53,7 @@ I identified four categories in which the information could be classified given 
 
 This kind of classification can be helpful to avoid putting the information too deep in the knowledgebase and thus reducing its accessibility to users.
 
-![Example Implementation](./static/echo_UI_example_2.jpeg)
+![Example Implementation](./static/echo_UI_example_latest.jpeg)
 
 <!-- --- -->
 
