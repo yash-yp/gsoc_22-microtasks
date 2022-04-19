@@ -14,11 +14,11 @@ BetterDocs offers a couple of free designs. I tried implementing and creating ca
 
 ### UI Example - 1
 
-![UI 1 betterdocs](static/betterdocs_ui_1.jpeg)
+![UI 1 betterdocs](static/betterdocs_UI_latest.jpeg)
 
 ### UI Example - 2
 
-![UI 2 betterdocs](static/betterdocs_ui_2.jpeg)
+![UI 2 betterdocs](static/betterdocs_UI_2_latest.jpeg)
 
 The above designs are free. BetterDocs offers three more layouts in its pro feature that can be tried depending on the mentors' opinions.
 
